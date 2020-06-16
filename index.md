@@ -1,3 +1,14 @@
-# Welcome to my blog
+# Trying Github pages
 
-I'm glad you are here. I plan to talk about ...
+_This is a test_
+
+
+__I'm editing a markdown in mode wysiwyg__
+
+``python
+def func(x, y):
+  return x+y
+``
+
+## This is enough.
+
